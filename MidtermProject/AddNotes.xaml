@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="MidtermProject.AddNotes"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:data="clr-namespace:MidtermProject.Data"
+    xmlns:viewmodel="clr-namespace:MidtermProject.ViewModel"
+    x:DataType="viewmodel:AddNotesViewModels">
+
+    <Grid
+        Padding="10"
+        ColumnDefinitions="*"
+        RowDefinitions="*,*">
+
+
+        <StackLayout Grid.Row="0" Grid.ColumnSpan="3">
+            <Label FontAttributes="Bold" Text="Note ID" />
+            <Entry
+                IsEnabled="False"
+                Placeholder="Part ID"
+                Text="{Binding NoteId}" />
+            <Label FontAttributes="Bold" Text="Title" />
+            <Entry
+                IsEnabled="True"
+                Placeholder="Note Title"
+                Text="{Binding Title}" />
+            <Label FontAttributes="Bold" Text="Content" />
+            <Editor
+                HorizontalOptions="Fill"
+                Placeholder="Note Content"
+                Text="{Binding Content}"
+                VerticalOptions="FillAndExpand" />
+        </StackLayout>
+
+        <StackLayout
+            Grid.Row="1"
+            Grid.Column="0"
+            HorizontalOptions="Center"
+            Orientation="Horizontal"
+            Spacing="10">
+            <Button
+                Command="{Binding CancelNoteCommand}"
+                HorizontalOptions="Center"
+                Text="Cancel"
+                VerticalOptions="CenterAndExpand" />
+            <Button
+                Command="{Binding SaveNoteCommand}"
+                HorizontalOptions="Center"
+                Text="Save"
+                VerticalOptions="CenterAndExpand" />
+        </StackLayout>
+
+
+    </Grid>
+</ContentPage>

@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|d:\\3 hk2\\phone application development\\net mual\\midtermproject\\midtermproject\\viewmodel\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|solutionrelative:midtermproject\\viewmodel\\signinviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|d:\\3 hk2\\phone application development\\net mual\\midtermproject\\midtermproject\\signin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|solutionrelative:midtermproject\\signin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|d:\\3 hk2\\phone application development\\net mual\\midtermproject\\midtermproject\\signin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|solutionrelative:midtermproject\\signin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|d:\\3 hk2\\phone application development\\net mual\\midtermproject\\midtermproject\\viewmodel\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|solutionrelative:midtermproject\\viewmodel\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|d:\\3 hk2\\phone application development\\net mual\\midtermproject\\midtermproject\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|solutionrelative:midtermproject\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|d:\\3 hk2\\phone application development\\net mual\\midtermproject\\midtermproject\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|solutionrelative:midtermproject\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|d:\\3 hk2\\phone application development\\net mual\\midtermproject\\midtermproject\\viewmodel\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|solutionrelative:midtermproject\\viewmodel\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|d:\\3 hk2\\phone application development\\net mual\\midtermproject\\midtermproject\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|solutionrelative:midtermproject\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|d:\\3 hk2\\phone application development\\net mual\\midtermproject\\midtermproject\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|solutionrelative:midtermproject\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MidtermProject\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|d:\\3 hk2\\phone application development\\net mual\\midtermproject\\midtermproject\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|solutionrelative:midtermproject\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|d:\\3 hk2\\phone application development\\net mual\\midtermproject\\midtermproject\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|solutionrelative:midtermproject\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|d:\\3 hk2\\phone application development\\net mual\\midtermproject\\midtermproject\\viewmodel\\addnotesviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|solutionrelative:midtermproject\\viewmodel\\addnotesviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|d:\\3 hk2\\phone application development\\net mual\\midtermproject\\midtermproject\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|solutionrelative:midtermproject\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|d:\\3 hk2\\phone application development\\net mual\\midtermproject\\midtermproject\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|solutionrelative:midtermproject\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|d:\\3 hk2\\phone application development\\net mual\\midtermproject\\midtermproject\\addnotes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|solutionrelative:midtermproject\\addnotes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|d:\\3 hk2\\phone application development\\net mual\\midtermproject\\midtermproject\\addnotes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|solutionrelative:midtermproject\\addnotes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|d:\\3 hk2\\phone application development\\net mual\\midtermproject\\midtermproject\\midtermproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|solutionrelative:midtermproject\\midtermproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|d:\\3 hk2\\phone application development\\net mual\\midtermproject\\midtermproject\\data\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|solutionrelative:midtermproject\\data\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|d:\\3 hk2\\phone application development\\net mual\\midtermproject\\midtermproject\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|solutionrelative:midtermproject\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|d:\\3 hk2\\phone application development\\net mual\\midtermproject\\midtermproject\\data\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2793E75-5FFD-44CB-A400-D1000AC880D5}|MidtermProject\\MidtermProject.csproj|solutionrelative:midtermproject\\data\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignUp.xaml",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\SignUp.xaml",
+              "RelativeDocumentMoniker": "MidtermProject\\SignUp.xaml",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\SignUp.xaml",
+              "RelativeToolTip": "MidtermProject\\SignUp.xaml",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAowF0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-05T08:15:30.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddNotesViewModels.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\ViewModel\\AddNotesViewModels.cs",
+              "RelativeDocumentMoniker": "MidtermProject\\ViewModel\\AddNotesViewModels.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\ViewModel\\AddNotesViewModels.cs",
+              "RelativeToolTip": "MidtermProject\\ViewModel\\AddNotesViewModels.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAiwDYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:04:37.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignIn.xaml",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\SignIn.xaml",
+              "RelativeDocumentMoniker": "MidtermProject\\SignIn.xaml",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\SignIn.xaml",
+              "RelativeToolTip": "MidtermProject\\SignIn.xaml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-05T08:15:37.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignUpViewModel.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\ViewModel\\SignUpViewModel.cs",
+              "RelativeDocumentMoniker": "MidtermProject\\ViewModel\\SignUpViewModel.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\ViewModel\\SignUpViewModel.cs",
+              "RelativeToolTip": "MidtermProject\\ViewModel\\SignUpViewModel.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:44:06.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignInViewModel.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\ViewModel\\SignInViewModel.cs",
+              "RelativeDocumentMoniker": "MidtermProject\\ViewModel\\SignInViewModel.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\ViewModel\\SignInViewModel.cs",
+              "RelativeToolTip": "MidtermProject\\ViewModel\\SignInViewModel.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAgwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:43:48.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\ViewModel\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "MidtermProject\\ViewModel\\MainPageViewModel.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\ViewModel\\MainPageViewModel.cs",
+              "RelativeToolTip": "MidtermProject\\ViewModel\\MainPageViewModel.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowDoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:04:37.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignUp.xaml.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\SignUp.xaml.cs",
+              "RelativeDocumentMoniker": "MidtermProject\\SignUp.xaml.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\SignUp.xaml.cs",
+              "RelativeToolTip": "MidtermProject\\SignUp.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:19:54.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignIn.xaml.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\SignIn.xaml.cs",
+              "RelativeDocumentMoniker": "MidtermProject\\SignIn.xaml.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\SignIn.xaml.cs",
+              "RelativeToolTip": "MidtermProject\\SignIn.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:19:41.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "MidtermProject\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "MidtermProject\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T09:07:29.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MidtermProject\\AppShell.xaml",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\AppShell.xaml",
+              "RelativeToolTip": "MidtermProject\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-05T06:02:39.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\App.xaml",
+              "RelativeDocumentMoniker": "MidtermProject\\App.xaml",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\App.xaml",
+              "RelativeToolTip": "MidtermProject\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-05T06:40:22.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MidtermProject\\MainPage.xaml.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\MainPage.xaml.cs",
+              "RelativeToolTip": "MidtermProject\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:13:21.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "MidtermProject\\AppShell.xaml.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\AppShell.xaml.cs",
+              "RelativeToolTip": "MidtermProject\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:52:29.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MidtermProject\\MainPage.xaml",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\MainPage.xaml",
+              "RelativeToolTip": "MidtermProject\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-05T06:02:41.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MidtermProject\\MauiProgram.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\MauiProgram.cs",
+              "RelativeToolTip": "MidtermProject\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T08:18:49.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddNotes.xaml",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\AddNotes.xaml",
+              "RelativeDocumentMoniker": "MidtermProject\\AddNotes.xaml",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\AddNotes.xaml",
+              "RelativeToolTip": "MidtermProject\\AddNotes.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-05T06:28:49.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddNotes.xaml.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\AddNotes.xaml.cs",
+              "RelativeDocumentMoniker": "MidtermProject\\AddNotes.xaml.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\AddNotes.xaml.cs",
+              "RelativeToolTip": "MidtermProject\\AddNotes.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T04:32:24.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MidtermProject.csproj",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\MidtermProject.csproj",
+              "RelativeDocumentMoniker": "MidtermProject\\MidtermProject.csproj",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\MidtermProject.csproj",
+              "RelativeToolTip": "MidtermProject\\MidtermProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T08:13:40.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MidtermProject\\App.xaml.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\App.xaml.cs",
+              "RelativeToolTip": "MidtermProject\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:02:39.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Note.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\Data\\Note.cs",
+              "RelativeDocumentMoniker": "MidtermProject\\Data\\Note.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\Data\\Note.cs",
+              "RelativeToolTip": "MidtermProject\\Data\\Note.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:17:46.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\Data\\Messages.cs",
+              "RelativeDocumentMoniker": "MidtermProject\\Data\\Messages.cs",
+              "ToolTip": "D:\\3 hk2\\Phone application development\\NET MUAL\\MidtermProject\\MidtermProject\\Data\\Messages.cs",
+              "RelativeToolTip": "MidtermProject\\Data\\Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:20:51.605Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
