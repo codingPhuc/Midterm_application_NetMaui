@@ -12,6 +12,7 @@ namespace MidtermProject
         public MainPage()
         {
             InitializeComponent();
+           
             BindingContext = viewModel; 
         }
 

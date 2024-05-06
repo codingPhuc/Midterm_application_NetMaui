@@ -64,6 +64,9 @@
     <AppxPackagedFile Include="D:\3 hk2\Phone application development\NET MUAL\MidtermProject\MidtermProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\add_1.scale-100.png">
       <PackagePath>add_1.scale-100.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 hk2\Phone application development\NET MUAL\MidtermProject\MidtermProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\add_user_male_46px.scale-100.png">
+      <PackagePath>add_user_male_46px.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\3 hk2\Phone application development\NET MUAL\MidtermProject\MidtermProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
     </AppxPackagedFile>
@@ -222,6 +225,18 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\3 hk2\Phone application development\NET MUAL\MidtermProject\MidtermProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\edit.scale-100.png">
       <PackagePath>edit.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 hk2\Phone application development\NET MUAL\MidtermProject\MidtermProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logout_46px.scale-100.png">
+      <PackagePath>logout_46px.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 hk2\Phone application development\NET MUAL\MidtermProject\MidtermProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\menu_46px.scale-100.png">
+      <PackagePath>menu_46px.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 hk2\Phone application development\NET MUAL\MidtermProject\MidtermProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\moleskine_46px.scale-100.png">
+      <PackagePath>moleskine_46px.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\3 hk2\Phone application development\NET MUAL\MidtermProject\MidtermProject\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\page_46px.scale-100.png">
+      <PackagePath>page_46px.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\3 hk2\Phone application development\NET MUAL\MidtermProject\MidtermProject\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MidtermProject.deps.json">
       <PackagePath>MidtermProject.deps.json</PackagePath>

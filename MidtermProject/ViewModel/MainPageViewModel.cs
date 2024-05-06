@@ -87,7 +87,17 @@ namespace MidtermProject.ViewModel
         {
             Notes.Remove(note);
         }
-      
-         
+        [RelayCommand]
+        async Task SignOut()
+        {
+            bool answer = await Shell.Current.DisplayAlert("Confirmation", "Do you really want to sign out?", "Yes", "No");
+            if (answer)
+            {
+                await Shell.Current.GoToAsync("//SignIn");
+            }
+
+        }
+
+
     }
 }

@@ -6,7 +6,16 @@
     xmlns:data="clr-namespace:MidtermProject.Data"
     xmlns:viewmodel="clr-namespace:MidtermProject.ViewModel"
     x:DataType="viewmodel:MainPageViewModel">
-
+    <ContentPage.ToolbarItems>
+        <ToolbarItem>
+            <ToolbarItem.IconImageSource>
+                <FileImageSource File="logout_46px.png" />
+            </ToolbarItem.IconImageSource>
+            <ToolbarItem.Command>
+                <Binding Path="SignOutCommand" />
+            </ToolbarItem.Command>
+        </ToolbarItem>
+    </ContentPage.ToolbarItems>
 
     <Grid ColumnDefinitions="*" RowDefinitions="Auto,* , Auto">
 

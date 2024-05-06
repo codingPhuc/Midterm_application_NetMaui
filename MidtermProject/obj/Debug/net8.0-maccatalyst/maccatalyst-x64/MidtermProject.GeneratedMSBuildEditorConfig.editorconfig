@@ -40,17 +40,17 @@ build_metadata.AdditionalFiles.ManifestResourceName = MidtermProject.MainPage.xa
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[D:/3 hk2/Phone application development/NET MUAL/MidtermProject/MidtermProject/Resources/Splash/Styles/Colors.xaml]
+[D:/3 hk2/Phone application development/NET MUAL/MidtermProject/MidtermProject/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MidtermProject.Resources.Splash.Styles.Colors.xaml
-build_metadata.AdditionalFiles.TargetPath = Resources\Splash\Styles\Colors.xaml
-build_metadata.AdditionalFiles.RelativePath = Resources\Splash\Styles\Colors.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MidtermProject.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[D:/3 hk2/Phone application development/NET MUAL/MidtermProject/MidtermProject/Resources/Splash/Styles/Styles.xaml]
+[D:/3 hk2/Phone application development/NET MUAL/MidtermProject/MidtermProject/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MidtermProject.Resources.Splash.Styles.Styles.xaml
-build_metadata.AdditionalFiles.TargetPath = Resources\Splash\Styles\Styles.xaml
-build_metadata.AdditionalFiles.RelativePath = Resources\Splash\Styles\Styles.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MidtermProject.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
 [D:/3 hk2/Phone application development/NET MUAL/MidtermProject/MidtermProject/SignIn.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml

@@ -56,8 +56,11 @@ namespace MidtermProject.ViewModel
                 }
                 else
                 {
-                    // The email and password exist in the list of users. Continue with the sign in process...
+                    // The email and password exist in the list of users. Continue with the sign in process... 
+
+                    
                     await Shell.Current.GoToAsync("MainPage");
+                
                 }
             }
         }

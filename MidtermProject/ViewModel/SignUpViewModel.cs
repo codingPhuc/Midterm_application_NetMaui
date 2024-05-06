@@ -38,6 +38,7 @@ namespace MidtermProject.ViewModel
             else
             {
                 // All fields are filled. Continue with the sign up process...
+              
                 await Shell.Current.GoToAsync("SignIn");
             }
           
