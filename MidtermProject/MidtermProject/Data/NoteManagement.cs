@@ -30,10 +30,7 @@ namespace MidtermProject.Data;
 
      static NoteManagement()
     {
-        if (Device.RuntimePlatform == Device.Android || Device.RuntimePlatform == Device.iOS)
-            { BaseAddress = "http://10.0.2.2:3000";  }
-        else
-        { BaseAddress = "http://localhost:3000";  }
+        BaseAddress = "https://dotnet-maui.onrender.com";
 
         UrlAccount = $"{BaseAddress}/api/account/";
         UrlNote = $"{BaseAddress}/api/note/";
