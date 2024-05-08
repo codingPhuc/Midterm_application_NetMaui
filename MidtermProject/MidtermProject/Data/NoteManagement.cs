@@ -17,20 +17,34 @@ namespace MidtermProject.Data;
     public static class NoteManagement
 {
     // TODO: Add fields for BaseAddress, Url, and authorizationKey
-    static readonly string BaseAddress = "http://localhost:3000";
-    static readonly string UrlAccount = $"{BaseAddress}/api/account/";
-    static readonly string UrlNote = $"{BaseAddress}/api/note/";
 
-/*    static readonly string BaseAddress = "http://localhost:3000";
-    static readonly string Url = $"{BaseAddress}/api/account/";*/
+
+
+    
+
+    static  string BaseAddress = "";
+    static  string UrlAccount = "";
+    static  string UrlNote = "";
     private static string authorizationKey;
     private static HttpClient client;
 
+     static NoteManagement()
+    {
+        if (Device.RuntimePlatform == Device.Android || Device.RuntimePlatform == Device.iOS)
+            { BaseAddress = "http://10.0.2.2:3000";  }
+        else
+        { BaseAddress = "http://localhost:3000";  }
 
+        UrlAccount = $"{BaseAddress}/api/account/";
+        UrlNote = $"{BaseAddress}/api/note/";
+
+    }
 
     public static async Task<bool>  SetAuthorizationKey(string email, string Enterpassword)
     {
         client = new HttpClient();
+
+
 
        
             // Create the request body

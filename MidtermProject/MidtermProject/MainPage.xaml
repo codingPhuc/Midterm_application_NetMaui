@@ -11,8 +11,10 @@
     </Shell.BackButtonBehavior>
     <ContentPage.ToolbarItems>
         <ToolbarItem>
+
             <ToolbarItem.IconImageSource>
                 <FileImageSource File="logout_46px.png" />
+
             </ToolbarItem.IconImageSource>
             <ToolbarItem.Command>
                 <Binding Path="SignOutCommand" />
@@ -35,7 +37,7 @@
 
                                 <Grid ColumnSpacing="16">
                                     <Grid.ColumnDefinitions>
-                                        <ColumnDefinition Width="120" />
+                                        <ColumnDefinition Width="*" />
                                         <ColumnDefinition Width="*" />
                                     </Grid.ColumnDefinitions>
                                     <Grid.RowDefinitions>
@@ -100,7 +102,7 @@
             Grid.Row="1"
             Grid.Column="0"
             Margin="20"
-            BackgroundColor="DeepPink"
+            BackgroundColor="BlueViolet"
             Command="{Binding AddNotesCommand}"
             CornerRadius="22"
             HorizontalOptions="End"

@@ -85,7 +85,11 @@ module.exports.Add = async ( req, res) =>{
         var ListNote = await NoteModel.find()
 
         var ID = ListNote?.length + 1
-
+        while(await NoteModel.findOne({ID: ID}))
+        {
+            ID += 1
+        }
+        
         let AccountID = req.vars.User._id
         let Note = await NoteModel.create({
             ID,
