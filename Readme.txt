@@ -1,4 +1,3 @@
-#Video Link 
 
 # Application Setup Instructions
 
